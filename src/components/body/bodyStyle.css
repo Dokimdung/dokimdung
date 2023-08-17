@@ -1,0 +1,38 @@
+.footer_left {
+    width: 682px;
+    height: 404px;
+    top: 335px;
+    left: 140px;
+    radius: 80px;
+}
+
+.footer_left-Stu {
+    text-decoration: none;
+    color: #F48C06;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 81px;
+}
+
+.footer_left-Stu {
+    color: #ffffff;
+    font-size: 54px;
+    font-weight: 800;
+    line-height: 74px;
+    text-decoration: none;
+}
+
+.p {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 39px;
+}
+
+.footer_left-join {
+    width: 220px;
+    height: 80px;
+    top: 659px;
+    left: 140px;
+    border-radius: 80px;
+}
