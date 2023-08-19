@@ -1,12 +1,30 @@
-.footer_left {
-    width: 682px;
-    height: 404px;
-    top: 335px;
-    left: 140px;
+.body {
+    display: flex;
+    width: 1912px;
+    height: 1118px;
+    background-color: #49bbbd;
+}
+
+.body_left {
+    width: 640px;
+    height: 604px;
+    margin: 200px 50px;
+    left: 100px;
     radius: 80px;
 }
 
-.footer_left-Stu {
+.body_left-nav {
+    display: flex;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: 0 20px;
+}
+
+.body_left-Stu {
     text-decoration: none;
     color: #F48C06;
     font-size: 54px;
@@ -14,7 +32,7 @@
     line-height: 81px;
 }
 
-.footer_left-Stu {
+.body_left-on {
     color: #ffffff;
     font-size: 54px;
     font-weight: 800;
@@ -22,17 +40,233 @@
     text-decoration: none;
 }
 
-.p {
-    color: #ffffff;
-    font-size: 24px;
+p {
+    color: #5b5b5b;
+    font-size: 22px;
     font-weight: 400;
-    line-height: 39px;
+    line-height: 40px;
 }
 
-.footer_left-join {
+
+.body_left-join {
+    background-color: #7fcecf;
     width: 220px;
     height: 80px;
-    top: 659px;
+    top: 800px;
     left: 140px;
     border-radius: 80px;
+    color: white;
+    border: none;
+}
+
+.body__left-watch {
+    width: 402px;
+    height: 200px;
+    margin-top: -30px;
+    left: 140px;
+    border-radius: 80px;
+}
+
+.body_right {
+    width: 544px;
+    height: 1000px;
+    top: 20px;
+    left: 108px;
+    position: relative;
+    border-radius: 100px;
+
+}
+
+.body_right-rightt {
+    width: 544px;
+    height: 892px;
+    top: 50px;
+    left: 100px;
+    position: absolute;
+
+
+}
+
+.body_right-group1 {
+    width: 300px;
+    height: 100px;
+    top: 300px;
+    left: -100px;
+    opacity: 1;
+    position: absolute;
+}
+
+.body_right-group2 {
+    width: 100px;
+    height: 100px;
+    top: 200px;
+    left: 500px;
+    position: absolute;
+
+}
+
+.body_right-group3 {
+    width: 370px;
+    height: 110px;
+    top: 400px;
+    left: 420px;
+    border-radius: 20px;
+    position: absolute;
+
+}
+
+.body_right-group4 {
+    width: 390px;
+    height: 187px;
+    top: 650px;
+    left: -20px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+.container {
+
+    top: 1252px;
+    margin-left: 196px;
+}
+
+h3 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 62px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #010514;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 40;
+    line-height: 29px;
+    color: #010514CC;
+    margin-left: 250px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Buenos Aires Trial;
+}
+
+.container_frame {
+    width: 1527px;
+    height: 138px;
+    top: 148px;
+    left: 196px;
+    margin: 0 50px;
+    text-align-last: center;
+
+}
+
+.container_frame-img {
+    width: 1527px;
+    height: 138px;
+    top: 1252px;
+    left: 196px;
+
+}
+
+.container_all {
+    width: 1000px;
+    height: 65px;
+    margin-top: 300px;
+    margin-left: 300px;
+
+}
+
+.container_all-in {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 65px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #2F327D;
+    text-decoration: none;
+
+}
+
+.container_all-cl {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 65px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #00CBB8;
+    text-decoration: none;
+    margin: 16px;
+}
+
+.container_all-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color: #696984;
+    text-align-last: center;
+    text-decoration: none;
+    display: block;
+}
+
+.container_button {
+    display: flex;
+    padding: 100px;
+    border: none;
+}
+
+.container_button-line {
+    width: 350px;
+    height: 430px;
+    top: 2089px;
+    left: 225px;
+    border-radius: 30px;
+    border: none;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #e8d8d8;
+    margin: 16px;
+
+
+}
+
+.container_button-line7 {
+
+    width: 100px;
+    height: 100px;
+    top: 2032px;
+    left: 400px;
+}
+
+.container_button-line0 {
+
+    width: 100px;
+    height: 100px;
+    top: 2032px;
+    Left: 910px;
+}
+
+.container_button-line1 {
+
+    width: 100px;
+    height: 100px;
+    top: 2032px;
+    Left: 1420px;
+}
+
+.container_button-text {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 10px;
+    text-align: center;
+    color: #2F327D;
+
+}
+
+.container_button-all {
+    text-decoration: none;
+    color: #696984;
 }
