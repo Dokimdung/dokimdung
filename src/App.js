@@ -3,6 +3,7 @@ import Header from './components/header/index'
 import Body from './components/body/container'
 
 function App() {
+    console.log('helo')
     return (
         <div className="App">
             <Header/>
