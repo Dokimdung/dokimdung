@@ -2,7 +2,7 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     box-sizing: border-box;
     font-size: 25px;
-    width: 1200px;
+    /*width: 1200px;*/
 }
 
 .warrap {
@@ -67,7 +67,7 @@
 .body {
     display: flex;
     width: 100%;
-    height: 530px;
+    /*height: 530px;*/
     background-color: #49bbbd;
 }
 
