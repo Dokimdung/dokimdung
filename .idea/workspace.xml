@@ -4,55 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42978445-f87a-4148-934d-1af78b1110a3" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/body/container.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Category (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Category (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Category.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Frame 55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 448.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 79.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/Group 92.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/anhfooter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/confident-teacher-explaining-lesson-pupils 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/play-button.png" afterDir="false" />
+    <list default="true" id="42978445-f87a-4148-934d-1af78b1110a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/body/bodyStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/body/bodyStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/body/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/headerStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/headerStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" />
     </list>
+    <list id="695267c7-5969-441d-949c-84e18562146a" name=".idea" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -82,6 +48,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.6" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2U6N4DiragHXkqolIb3oS7cGy40" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -97,7 +70,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/kimdungmin/Documents/CLF TEST/studying/public",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/thanhnguyen/Documents/GITHUB/Demo/dokimdung",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -117,7 +91,7 @@
       <recent name="$PROJECT_DIR$/src/components/body" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.build">
     <configuration name="container.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/body/container.js" working-dir="$PROJECT_DIR$/src/components/body">
       <method v="2" />
     </configuration>
@@ -143,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
         <item itemvalue="Node.js.container.js" />
       </list>
     </recent_temporary>
@@ -153,6 +127,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="42978445-f87a-4148-934d-1af78b1110a3" name="Changes" comment="" />
+      <changelist id="695267c7-5969-441d-949c-84e18562146a" name=".idea" comment="" />
       <created>1692255881910</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -161,6 +136,7 @@
       <workItem from="1692256008128" duration="82000" />
       <workItem from="1692267804414" duration="48063000" />
       <workItem from="1692692275520" duration="2066000" />
+      <workItem from="1692695426345" duration="1897000" />
     </task>
     <task id="LOCAL-00001" summary="change logo">
       <option name="closed" value="true" />
@@ -194,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692468020271</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".idea">
+      <option name="closed" value="true" />
+      <created>1692695479451</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692695479452</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit log">
+      <option name="closed" value="true" />
+      <created>1692695668839</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692695668839</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,14 +204,17 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="hho" />
     <MESSAGE value="change logo" />
     <MESSAGE value=" add body" />
     <MESSAGE value="  add body header" />
     <MESSAGE value=" add boby container" />
+    <MESSAGE value=".idea" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="commit log" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit log" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
